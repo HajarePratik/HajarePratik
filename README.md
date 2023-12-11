@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @HajarePratik
-- 🌱 I’m currently learning Collection Java, Spring Boot 
+- 🌱 I’m currently learning Java, Spring Boot 
